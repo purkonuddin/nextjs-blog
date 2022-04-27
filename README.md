@@ -1,2 +1,2 @@
 # nextjs-blog
-react next blog
+react next typescript blog
